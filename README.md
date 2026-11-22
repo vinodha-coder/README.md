@@ -42,4 +42,3 @@ Feedback will be collected from participants after the event to improve future e
 
 ## 7. Conclusion
 This event planning project helps students develop teamwork, leadership and event management skills.
-# README.md
