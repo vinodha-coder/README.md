@@ -1,6 +1,7 @@
 
 # College Event Planning
 
+
 ## 1. Event Details
 - Event Name: College Cultural Fest
 - Venue: College Auditorium
